@@ -1,0 +1,18 @@
+{
+  "name": "flyingfiree/framework",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "ff",
+      "email": "2196076103@qq.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "flyingfiree\\framework\\": "src",
+      "flyingfiree\\database\\": "database"
+    }
+  }
+}
