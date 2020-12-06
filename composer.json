@@ -10,6 +10,9 @@
   ],
   "require": {},
   "autoload": {
+    "files": [
+      "src/core/helpsers.php"
+    ],
     "psr-4": {
       "flyingfiree\\framework\\": "src",
       "flyingfiree\\database\\": "database"
